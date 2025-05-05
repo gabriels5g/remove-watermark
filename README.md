@@ -1,4 +1,4 @@
-1 - crie uma pasta 'imagens_com_marca'
+1 - crie uma pasta 'imagens_com_marca'*
 2 - adicone as imagens nessa pasta
 3 - rode o codigo
 
